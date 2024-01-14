@@ -1,48 +1,26 @@
 import React from 'react'
 import './portfolio.css'
-
+import fly from '../../assests/flyease.png'
+import emp from '../../assests/empowerPro.jpg'
+import med from '../../assests/medbot.png'
 const data=[
   {
     id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
+    image: emp,
+    title: 'EmpowerPro',
+    github: "https://github.com/Rishabh-Saket/EmpowerPro"
   },
   {
-    id: 1,
-    image: "NA",
+    id: 2,
+    image: fly,
     title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
+    github: "https://github.com/Rishabh-Saket/FlyEase"
   },
   {
-    id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
-  },
-  {
-    id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
-  },
-  {
-    id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
-  },
-  {
-    id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
-  },
-  {
-    id: 1,
-    image: "NA",
-    title: 'FlyEase',
-    github: "https://github.com/Rishabh-Saket"
+    id: 3,
+    image: med,
+    title: 'Medbot',
+    github: "https://github.com/Rishabh-Saket/Medbot"
   }
 ];
 

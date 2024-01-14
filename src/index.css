@@ -58,7 +58,7 @@ h1{
 
 section {
   margin: 8rem;
-  height: 100vh;
+  height: auto;
 }
 
 secion > h2, section > h5{

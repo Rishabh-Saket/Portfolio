@@ -17,23 +17,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Visual Design</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Design evaluation</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
-              </li>
-              <li>
-                <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
-              </li>
-              <li>
-                <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Pattern library</p>
               </li>
             </ul>
           </article>
@@ -48,23 +40,19 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Website development</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Custom web applications</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Mobile responsiveness</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
-              </li>
-              <li>
-                <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Website architecture</p>
               </li>
             </ul>
           </article>
@@ -79,23 +67,15 @@ const Services = () => {
             <ul className='service__list'>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>API development</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Databasse design</p>
               </li>
               <li>
                 <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
-              </li>
-              <li>
-                <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
-              </li>
-              <li>
-                <MdCheck className='service__list-icon' />
-                <p>lksmlskmvsfdlkv sddvl sdv sdvkmsdv sdv sd v sdv</p>
+                <p>Network programming</p>
               </li>
             </ul>
           </article>
